@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "5.1.0",
+  "versionCode": 5,
+  "versionName": "5.0.0",
   "url": "https://github.com/xavierpihta/urven/releases/latest/download/app-debug.apk",
   "notes": "Шагомер вместо GPS, голосовые сообщения, новая палитра, современный чат, приглашения и настройки кланов, мультиаккаунт, удаление чужих постов владельцем, автообновление и админ-эффекты."
 }
